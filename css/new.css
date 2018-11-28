@@ -156,9 +156,6 @@
       margin-top: 4.8rem;
       font-size: 2.8rem;
     }
-    .about-project .about-items{
-        height: 27rem;
-    }
   }
   @media only screen and (max-width: 500px) {
     #about h3 {
@@ -166,9 +163,6 @@
     }
     #about .lead {
       font-size: 2.5rem;
-    }
-    .about-project .about-items{
-        height: 32rem;
     }
   }
   @media only screen and (max-width: 400px) {
@@ -180,8 +174,5 @@
     }
     #about .lead {
       font-size: 2.3rem;
-    }
-    .about-project .about-items{
-        height: 35rem;
     }
   }
