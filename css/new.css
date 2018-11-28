@@ -148,6 +148,7 @@
   @media only screen and (max-width: 600px) {
     #about {
       min-height: auto;
+      padding: 2rem 0;
     }
     #about .about-wrap {
       max-width: 500px;
@@ -163,6 +164,9 @@
     }
     #about .lead {
       font-size: 2.5rem;
+    }
+    .about-project .about-items{
+        height: 32rem;
     }
   }
   @media only screen and (max-width: 400px) {

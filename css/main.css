@@ -2249,7 +2249,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   #portfolio .intro-wrap {
-    padding: 12rem 0 21rem;
+    padding: 8rem 0 21rem;
   }
 }
 @media only screen and (max-width: 600px) {
